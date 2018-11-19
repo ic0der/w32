@@ -42,8 +42,8 @@ Setup
 
 Removed Functions
 =====
-- user32:1038 SendInput
-- user32:1072 SendInputString
+- [user32 SendInput](https://github.com/ShrewdSpirit/w32/blob/master/user32.go#L1036)
+- [user32 SendInputString](https://github.com/ShrewdSpirit/w32/blob/master/user32.go#L1070)
 
 Contribute
 ==========
